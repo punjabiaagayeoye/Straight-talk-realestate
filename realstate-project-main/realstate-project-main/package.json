@@ -1,0 +1,12 @@
+{
+  "name": "straight-talk-real-estate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Straight Talk Real Estate website for Railway",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
