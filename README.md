@@ -14,6 +14,6 @@ Your website will then be live on the generated Railway URL.
 
 Open `https://your-railway-url/admin` for the direct admin login page, or use **Admin Access** in the top-right corner.
 
-Password: `janjua1122`
+Password: 
 
 Choose images directly from your computer, then click **Save Changes**. The current admin setup saves apartment, gallery and contact edits in the browser where the edits are made. For shared permanent admin changes across every visitor, connect a database such as Railway Postgres in a later upgrade.
